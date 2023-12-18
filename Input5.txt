@@ -1,0 +1,1 @@
+=IF(Table3[@AfdelingLBFNummer]=Table4[@AfdelingsLBFNummer];Table4[@Link];0)
